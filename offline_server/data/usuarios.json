@@ -1,0 +1,384 @@
+[
+  {
+    "name": "Mariana Souza",
+    "cpf": "28139475012",
+    "email": "mariana.souza01@gmail.com",
+    "phone": "(11) 98734-5612",
+    "date_birthday": "1992-07-14",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:31:00-03:00"
+  },
+  {
+    "name": "Carlos Pereira",
+    "cpf": "40218395724",
+    "email": "carlos.pereira02@gmail.com",
+    "phone": "(11) 97642-9134",
+    "date_birthday": "1988-11-03",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:32:00-03:00"
+  },
+  {
+    "name": "Fernanda Lima",
+    "cpf": "52938461780",
+    "email": "fernanda.lima03@gmail.com",
+    "phone": "(11) 99523-6481",
+    "date_birthday": "1996-03-28",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:33:00-03:00"
+  },
+  {
+    "name": "Rodrigo Almeida",
+    "cpf": "61328947059",
+    "email": "rodrigo.almeida04@gmail.com",
+    "phone": "(11) 97234-5871",
+    "date_birthday": "1990-05-19",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:34:00-03:00"
+  },
+  {
+    "name": "Juliana Fernandes",
+    "cpf": "74829165030",
+    "email": "juliana.fernandes05@gmail.com",
+    "phone": "(11) 99345-2781",
+    "date_birthday": "1993-12-09",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:35:00-03:00"
+  },
+  {
+    "name": "Paulo Henrique",
+    "cpf": "81029374652",
+    "email": "paulo.henrique06@gmail.com",
+    "phone": "(11) 98476-1923",
+    "date_birthday": "1987-04-22",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:36:00-03:00"
+  },
+  {
+    "name": "Camila Ribeiro",
+    "cpf": "92384756108",
+    "email": "camila.ribeiro07@gmail.com",
+    "phone": "(11) 97764-8132",
+    "date_birthday": "1994-09-01",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:37:00-03:00"
+  },
+  {
+    "name": "Felipe Martins",
+    "cpf": "13492876509",
+    "email": "felipe.martins08@gmail.com",
+    "phone": "(11) 99123-6547",
+    "date_birthday": "1991-08-15",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:38:00-03:00"
+  },
+  {
+    "name": "Ana Beatriz",
+    "cpf": "29837461508",
+    "email": "ana.beatriz09@gmail.com",
+    "phone": "(11) 97543-8912",
+    "date_birthday": "1997-10-25",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:39:00-03:00"
+  },
+  {
+    "name": "Gustavo Oliveira",
+    "cpf": "38947162059",
+    "email": "gustavo.oliveira10@gmail.com",
+    "phone": "(11) 98342-7159",
+    "date_birthday": "1989-01-30",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:40:00-03:00"
+  },
+  {
+    "name": "Tatiane Moraes",
+    "cpf": "48291670358",
+    "email": "tatiane.moraes11@gmail.com",
+    "phone": "(11) 99812-6345",
+    "date_birthday": "1992-06-17",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:41:00-03:00"
+  },
+  {
+    "name": "Renato Santos",
+    "cpf": "59483720196",
+    "email": "renato.santos12@gmail.com",
+    "phone": "(11) 98276-3451",
+    "date_birthday": "1995-08-12",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:42:00-03:00"
+  },
+  {
+    "name": "Beatriz Carvalho",
+    "cpf": "68239140725",
+    "email": "beatriz.carvalho13@gmail.com",
+    "phone": "(11) 97561-8942",
+    "date_birthday": "1998-02-27",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:43:00-03:00"
+  },
+  {
+    "name": "Diego Mendes",
+    "cpf": "71392854068",
+    "email": "diego.mendes14@gmail.com",
+    "phone": "(11) 99184-6532",
+    "date_birthday": "1990-07-06",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:44:00-03:00"
+  },
+  {
+    "name": "Larissa Rocha",
+    "cpf": "82937456102",
+    "email": "larissa.rocha15@gmail.com",
+    "phone": "(11) 98671-3452",
+    "date_birthday": "1993-09-14",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:45:00-03:00"
+  },
+  {
+    "name": "Ricardo Gomes",
+    "cpf": "93481765209",
+    "email": "ricardo.gomes16@gmail.com",
+    "phone": "(11) 99823-4710",
+    "date_birthday": "1988-05-11",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:46:00-03:00"
+  },
+  {
+    "name": "Patrícia Azevedo",
+    "cpf": "14829670354",
+    "email": "patricia.azevedo17@gmail.com",
+    "phone": "(11) 98471-5632",
+    "date_birthday": "1994-11-18",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:47:00-03:00"
+  },
+  {
+    "name": "André Barbosa",
+    "cpf": "29384756108",
+    "email": "andre.barbosa18@gmail.com",
+    "phone": "(11) 97912-8465",
+    "date_birthday": "1989-03-09",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:48:00-03:00"
+  },
+  {
+    "name": "Vanessa Castro",
+    "cpf": "38471692057",
+    "email": "vanessa.castro19@gmail.com",
+    "phone": "(11) 99682-7134",
+    "date_birthday": "1996-12-03",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:49:00-03:00"
+  },
+  {
+    "name": "Thiago Nunes",
+    "cpf": "49182736509",
+    "email": "thiago.nunes20@gmail.com",
+    "phone": "(11) 98164-9321",
+    "date_birthday": "1992-10-26",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:50:00-03:00"
+  },
+
+  {
+    "name": "Isabela Duarte",
+    "cpf": "58391027468",
+    "email": "isabela.duarte21@gmail.com",
+    "phone": "(11) 99781-2456",
+    "date_birthday": "1991-02-15",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:51:00-03:00"
+  },
+  {
+    "name": "Marcelo Teixeira",
+    "cpf": "69283751048",
+    "email": "marcelo.teixeira22@gmail.com",
+    "phone": "(11) 98872-3164",
+    "date_birthday": "1987-06-24",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:52:00-03:00"
+  },
+  {
+    "name": "Renata Moreira",
+    "cpf": "71928364058",
+    "email": "renata.moreira23@gmail.com",
+    "phone": "(11) 99485-1237",
+    "date_birthday": "1995-04-07",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:53:00-03:00"
+  },
+  {
+    "name": "Bruno Ferreira",
+    "cpf": "83491720596",
+    "email": "bruno.ferreira24@gmail.com",
+    "phone": "(11) 98341-7652",
+    "date_birthday": "1990-08-18",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:54:00-03:00"
+  },
+  {
+    "name": "Cláudia Vieira",
+    "cpf": "94827163057",
+    "email": "claudia.vieira25@gmail.com",
+    "phone": "(11) 97953-8642",
+    "date_birthday": "1994-09-21",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:55:00-03:00"
+  },
+  {
+    "name": "Eduardo Silva",
+    "cpf": "15829374096",
+    "email": "eduardo.silva26@gmail.com",
+    "phone": "(11) 99234-7815",
+    "date_birthday": "1993-01-11",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:56:00-03:00"
+  },
+  {
+    "name": "Amanda Pinto",
+    "cpf": "26938174058",
+    "email": "amanda.pinto27@gmail.com",
+    "phone": "(11) 99173-8264",
+    "date_birthday": "1996-11-02",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:57:00-03:00"
+  },
+  {
+    "name": "Leonardo Costa",
+    "cpf": "37918264095",
+    "email": "leonardo.costa28@gmail.com",
+    "phone": "(11) 99742-5183",
+    "date_birthday": "1989-07-27",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:58:00-03:00"
+  },
+  {
+    "name": "Priscila Mendes",
+    "cpf": "49283756107",
+    "email": "priscila.mendes29@gmail.com",
+    "phone": "(11) 98271-6354",
+    "date_birthday": "1997-03-16",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T16:59:00-03:00"
+  },
+  {
+    "name": "Mateus Campos",
+    "cpf": "51928374605",
+    "email": "mateus.campos30@gmail.com",
+    "phone": "(11) 98653-9217",
+    "date_birthday": "1992-12-29",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T17:00:00-03:00"
+  },
+
+  {
+    "name": "Daniela Figueiredo",
+    "cpf": "68392047156",
+    "email": "daniela.figueiredo31@gmail.com",
+    "phone": "(11) 99472-3519",
+    "date_birthday": "1991-05-13",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T17:01:00-03:00"
+  },
+  {
+    "name": "Rafael Lopes",
+    "cpf": "71928360594",
+    "email": "rafael.lopes32@gmail.com",
+    "phone": "(11) 98263-9742",
+    "date_birthday": "1988-09-25",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T17:02:00-03:00"
+  },
+  {
+    "name": "Tatiana Borges",
+    "cpf": "82937461058",
+    "email": "tatiana.borges33@gmail.com",
+    "phone": "(11) 99685-1247",
+    "date_birthday": "1995-02-08",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T17:03:00-03:00"
+  },
+  {
+    "name": "Lucas Monteiro",
+    "cpf": "93481720597",
+    "email": "lucas.monteiro34@gmail.com",
+    "phone": "(11) 99127-8365",
+    "date_birthday": "1993-06-19",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T17:04:00-03:00"
+  },
+  {
+    "name": "Carolina Ramos",
+    "cpf": "14829670359",
+    "email": "carolina.ramos35@gmail.com",
+    "phone": "(11) 98762-5410",
+    "date_birthday": "1996-04-23",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T17:05:00-03:00"
+  },
+  {
+    "name": "Gabriel Batista",
+    "cpf": "26938174052",
+    "email": "gabriel.batista36@gmail.com",
+    "phone": "(11) 98475-9631",
+    "date_birthday": "1990-08-02",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T17:06:00-03:00"
+  },
+  {
+    "name": "Natália Pires",
+    "cpf": "37918264091",
+    "email": "natalia.pires37@gmail.com",
+    "phone": "(11) 99981-3452",
+    "date_birthday": "1997-11-07",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T17:07:00-03:00"
+  },
+  {
+    "name": "Victor Cardoso",
+    "cpf": "49283756104",
+    "email": "victor.cardoso38@gmail.com",
+    "phone": "(11) 97823-6514",
+    "date_birthday": "1989-12-15",
+    "source": "promoter_tablet",
+    "tablet_name": "1 - Skyline",
+    "client_created_at": "2025-09-05T17:08:00-03:00"
+  }
+]

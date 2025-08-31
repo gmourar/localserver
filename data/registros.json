@@ -1,0 +1,65 @@
+[
+    {
+        "id_number": "hSaQpeqHaCLLNHgDeChugXAyYTRYbEV0R0RzbkowZkZXYk1GT1E9PQ==",
+        "method": "qrcode",
+        "stand_name": "the one",
+        "tablet_name": "1 - The One",
+        "client_validated_at": "2025-08-29T19:28:22.364433-03:00",
+        "status": "local"
+    },
+    {
+        "id_number": "hSaQpeqHaCLLNHgDeChugXAyYTRYbEV0R0RzbkowZkZXYk1GT1E9PQ==",
+        "method": "qrcode",
+        "stand_name": "the one",
+        "tablet_name": "1 - The One",
+        "client_validated_at": "2025-08-29T19:30:11.002337-03:00",
+        "status": "local"
+    },
+    {
+        "id_number": "hSaQpeqHaCLLNHgDeChugXAyYTRYbEV0R0RzbkowZkZXYk1GT1E9PQ==",
+        "method": "qrcode",
+        "stand_name": "the one",
+        "tablet_name": "1 - The One",
+        "client_validated_at": "2025-08-29T19:30:20.238663-03:00",
+        "status": "local"
+    },
+    {
+        "id_number": "53750262870",
+        "method": "cpf",
+        "stand_name": "the one",
+        "tablet_name": "1 - The One",
+        "client_validated_at": "2025-08-29T19:54:59.788405-03:00",
+        "status": "local"
+    },
+    {
+        "cpf": "53750262870",
+        "atividade": "the one",
+        "id_tablet": "1 - The One",
+        "data_hora": "2025-08-29 22:55:37",
+        "status": "local"
+    },
+    {
+        "id_number": "53750262870",
+        "method": "cpf",
+        "stand_name": "the one",
+        "tablet_name": "1 - The One",
+        "client_validated_at": "2025-08-29T19:55:42.060530-03:00",
+        "status": "local"
+    },
+    {
+        "id_number": "81303404028",
+        "method": "cpf",
+        "stand_name": "the one",
+        "tablet_name": "1 - The One",
+        "client_validated_at": "2025-08-29T20:51:06.891526-03:00",
+        "status": "local"
+    },
+    {
+        "id_number": "hSaQpeqHaCLLNHgDeChugXAyYTRYbEV0R0RzbkowZkZXYk1GT1E9PQ==",
+        "method": "qrcode",
+        "stand_name": "the one",
+        "tablet_name": "1 - The One",
+        "client_validated_at": "2025-08-29T20:51:31.218910-03:00",
+        "status": "local"
+    }
+]

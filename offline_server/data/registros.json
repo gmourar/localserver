@@ -1,0 +1,52 @@
+[
+    {
+        "cpf": "99453743038",
+        "atividade": "skyline",
+        "id_tablet": "1 - Skyline",
+        "data_hora": "2025-08-24 21:55:22",
+        "status": "local"
+    },
+    {
+        "cpf": "99453743038",
+        "atividade": "skyline",
+        "id_tablet": "1 - Skyline",
+        "data_hora": "2025-08-24 21:56:56",
+        "status": "local"
+    },
+    {
+        "cpf": "35900599825",
+        "chave_cpf": "hSaQpeqHaCLLNHgDeChugXAyYTRYbEV0R0RzbkowZkZXYk1GT1E9PQ==",
+        "atividade": "skyline",
+        "id_tablet": "1 - Skyline",
+        "data_hora": "2025-08-24 21:59:30",
+        "status": "local"
+    },
+    {
+        "cpf": "53750262870",
+        "atividade": "the one",
+        "id_tablet": "2 - The One",
+        "data_hora": "2025-08-25 13:28:14",
+        "status": "local"
+    },
+    {
+        "cpf": "53750262870",
+        "atividade": "the one",
+        "id_tablet": "2 - The One",
+        "data_hora": "2025-08-25 13:37:53",
+        "status": "local"
+    },
+    {
+        "cpf": "53750262870",
+        "atividade": "the one",
+        "id_tablet": "2 - The One",
+        "data_hora": "2025-08-25 13:38:42",
+        "status": "local"
+    },
+    {
+        "cpf": "53750262870",
+        "atividade": "the one",
+        "id_tablet": "2 - The One",
+        "data_hora": "2025-08-25 14:17:11",
+        "status": "local"
+    }
+]
